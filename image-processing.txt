@@ -1,0 +1,22 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 5E47-4A24
+
+ Directory of C:\Users\User\Documents\Udacity-Image-API
+
+01/17/2023  03:48 AM    <DIR>          .
+01/17/2023  03:48 AM    <DIR>          ..
+01/12/2023  12:29 AM               629 .eslintrc.json
+01/10/2023  06:59 PM                99 .pretteirrc
+01/15/2023  10:51 PM    <DIR>          build
+01/15/2023  08:42 PM    <DIR>          full-images
+01/17/2023  03:48 AM                 0 image-processing.txt
+01/11/2023  10:58 PM    <DIR>          node_modules
+01/11/2023  10:58 PM           123,245 package-lock.json
+01/13/2023  09:21 AM             1,177 package.json
+01/17/2023  03:38 AM             2,643 README.md
+01/10/2023  07:09 PM    <DIR>          spec
+01/10/2023  07:55 PM    <DIR>          src
+01/17/2023  03:43 AM    <DIR>          thumb
+01/15/2023  10:51 PM            11,494 tsconfig.json
+               7 File(s)        139,287 bytes
+               8 Dir(s)  70,298,722,304 bytes free
